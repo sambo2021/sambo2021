@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mohamed-sambo">
+  <a href="www.linkedin.com/in/mohamed-sambo" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
