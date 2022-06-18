@@ -12,7 +12,7 @@
 ![grafana](https://img.shields.io/badge/Grafana-Analytics&Monitoring-white)
 ![Kuberntes](https://img.shields.io/badge/kubernetes-Orchesterator-blue)
 
-# DevOps Engineer
+<div stayle="text-align=center"> <h1> DevOps Engineer </h1></div>
 - DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
 <!--
 **sambo2021/sambo2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
