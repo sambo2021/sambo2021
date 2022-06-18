@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+
 ![docker](https://img.shields.io/badge/Docker-Container-blue)
 ![terraform](https://img.shields.io/badge/Terraform-Infrastructure-darkblue)
 ![ansible](https://img.shields.io/badge/Ansible-Configuration-lightblack)
@@ -11,7 +11,7 @@
 ![prometheus](https://img.shields.io/badge/Prometheus-Monitor-lightblack)
 ![grafana](https://img.shields.io/badge/Grafana-Analytics&Monitoring-white)
 ![Kuberntes](https://img.shields.io/badge/kubernetes-Orchesterator-blue)
-  </div>
+
 
 <div id="header" align="center"> <h1> DevOps Engineer </h1></div>
 <div id="header" align="center">
