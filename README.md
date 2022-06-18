@@ -21,6 +21,9 @@
   <a href="www.linkedin.com/in/mohamed-sambo" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="www.mohamedsamboiti@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 <div >
