@@ -16,7 +16,6 @@
 <div id="header" align="center"> <h1> DevOps Engineer </h1></div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
-   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/> 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mohamed-sambo" alt="LinkedIn">
