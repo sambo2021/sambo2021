@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<div align="center">
+<div >
   <h4>
 DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
   </h4>
