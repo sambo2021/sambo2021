@@ -22,8 +22,20 @@
   </a>
 </div>
 
+<div align="center">
+  <h3>
+DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
+  </h3>
+  </div>
+     
+     
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 
-- DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
+</div>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sambo2021&theme=dark&background=000000)](https://git.io/streak-stats)
