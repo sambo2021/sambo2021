@@ -18,10 +18,10 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sambo" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohamed-sambo"  target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.mohamedsamboiti@gmail.com" alt="Gmail">
+   <a href="https://www.mohamedsamboiti@gmail.com"  target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
