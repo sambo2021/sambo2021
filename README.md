@@ -16,7 +16,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/mohamed-sambo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
