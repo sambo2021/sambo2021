@@ -24,6 +24,11 @@
 
 
 - DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sambo2021&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **sambo2021/sambo2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
