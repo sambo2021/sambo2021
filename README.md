@@ -14,7 +14,7 @@
 
 <div id="header" align="center"> <h1> DevOps Engineer </h1></div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/mohamed-sambo">
@@ -30,7 +30,7 @@ DevOps engineer responsible for automating configuration management using Ansibl
      
      
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div >
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
