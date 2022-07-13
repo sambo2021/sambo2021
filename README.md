@@ -17,6 +17,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
+
+## 🌐Socials
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mohamed-sambo"  target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,6 +28,8 @@
   </a>
 </div>
 
+
+# 💫About Me :
 <div >
   <h4>
 DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
@@ -33,7 +37,7 @@ DevOps engineer responsible for automating configuration management using Ansibl
   </div>
      
      
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: 💻 Languages and Tools :
 <div >
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -50,16 +54,28 @@ DevOps engineer responsible for automating configuration management using Ansibl
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
-                                                                                                                                                   
+ <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;                      
 </div>
 
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=sambo2021&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sambo2021&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambo2021&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### :fire: My Stats :
+---
+[![](https://visitcount.itsvg.in/api?id=sambo2021&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sambo2021&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambo2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
 
 
 
