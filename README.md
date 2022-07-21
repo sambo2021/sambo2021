@@ -62,12 +62,10 @@ DevOps engineer responsible for automating configuration management using Ansibl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sambo2021&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambo2021&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Count Visitors :
+# 📊 Number of Visitors :
 <div>
   <h2>
-    <br/>
-    <img src="https://profile-counter.glitch.me/tej-singh-rana/count.svg"/>
-    <br/>
+    <img src="https://profile-counter.glitch.me/sambo2021/count.svg"/>
   </h2>
 </div>
 
