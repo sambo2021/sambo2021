@@ -26,6 +26,9 @@
    <a href="https://www.mohamedsamboiti@gmail.com"  target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://dev.to/sambo2021" target="_blank" alt="DEV">
+    <img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev&logoColor=black" alt="DEV Badge"/>
+  </a>
 </div>
 
 
