@@ -5,7 +5,6 @@
 ![ansible](https://img.shields.io/badge/Ansible-Configuration-lightblack)
 ![jenkins](https://img.shields.io/badge/Jenkins-Automation-white)
 ![aws](https://img.shields.io/badge/AWS-CloudProvider-yellow)
-![gcp](https://img.shields.io/badge/GCP-CloudProvider-white)
 ![helm](https://img.shields.io/badge/Helm-Charts-blue)
 ![istio](https://img.shields.io/badge/Istio-ServiceMesh-darkblue)
 ![prometheus](https://img.shields.io/badge/Prometheus-Monitor-lightblack)
