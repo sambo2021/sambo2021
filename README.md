@@ -34,7 +34,8 @@
 # 💫About Me :
 <div >
   <h4>
-DevOps engineer responsible for automating configuration management using Ansible, Building infrastructure on both public/private cloud (AWS, GCP and VMware) using Terraform, Building CI/CD pipelines with different tools (Jenkins, Gitlab CI and GitHub Actions), Using Bash and Python scripts to automate daily tasks, And manage Kubernetes clusters.
+A dedicated DevOps Engineer with two years of extensive experience working on a leading project for one of the world’s largest Telcos, Vodafone Germany. 
+My role involved streamlining and optimizing complex processes, which resulted in a significant 30% reduction in operational workload. Furthermore, hold certifications as an AWS Certified Solutions Architect – Associate and a Certified Kubernetes Administrator, underscoring my expertise and commitment to advancing technological solutions in the field.
   </h4>
   </div>
      
@@ -52,7 +53,6 @@ DevOps engineer responsible for automating configuration management using Ansibl
  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="grafana" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title=Mysql" alt="mysql" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;                    
 </div>
 
