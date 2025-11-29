@@ -60,12 +60,6 @@ A dedicated Senior DevOps Engineer working on a leading project for one of the w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sambo2021&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambo2021&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 Number of Visitors :
-<div>
-  <h2>
-    <img src="https://profile-counter.glitch.me/sambo2021/count.svg"/>
-  </h2>
-</div>
 
 
 
