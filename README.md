@@ -34,7 +34,7 @@
 # 💫About Me :
 <div >
   <h4>
-A dedicated Senior DevOps Engineer with around 4 years of extensive experience working on a leading project for one of the world’s largest Telcos, Vodafone Germany and one of the world’s leading logistics companies, Kuehne+Nagel. My role involved streamlining and optimizing complex processes, which resulted in a significant 30% reduction in operational workload. Furthermore, hold certifications as an AWS Certified Solutions Architect – Associate and a Certified Kubernetes Administrator, underscoring my expertise and commitment to advancing technological solutions in the field
+A dedicated Senior DevOps Engineer working on a leading project for one of the world’s largest Telcos, Vodafone Germany and one of the world’s leading logistics companies, Kuehne+Nagel. My role involved streamlining and optimizing complex processes, which resulted in a significant 30% reduction in operational workload. Furthermore, hold certifications as an AWS Certified Solutions Architect – Associate and a Certified Kubernetes Administrator, underscoring my expertise and commitment to advancing technological solutions in the field
   </h4>
   </div>
      
